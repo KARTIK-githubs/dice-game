@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: #333;
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+    font-size: 100px;
+}
+.p1{
+    text-align: center;
+    color: #b35555;
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+    font-size: 100px;
+}
+.p2{
+    text-align: center;
+    color: #b35555;
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+.dice img{
+    width: 150px;
+    height: 150px;
+    margin: 0 20px;
+}
+.button{
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+.players{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 60px;
+}
+.dicerow{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.button{
+    text-align: center;
+}
+.draw{
+    text-align: center;
+    color: #4b0909;
+    font-family: 'Lobster', cursive;
+    margin-top: 20px;
+    font-size: 100px;
+
+}
