@@ -6,10 +6,10 @@ This project was created while learning JavaScript DOM manipulation. Clicking th
 
 ## Preview
 
-<img width="959" height="450" alt="image" src="https://github.com/user-attachments/assets/51d3dc42-daa5-4cc8-be71-b5e1a0cde71b" />
-<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/efdec893-5353-4175-a718-a92e5693e413" />
-<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/8f2320a3-a629-4258-a975-faf253ef4926" />
-<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/8d96cbb7-f6d7-4805-94cc-2f58ce10a946" />
+<img width="959" height="449" alt="image" src="https://github.com/user-attachments/assets/c05e340c-b361-41bd-ae60-532d40f2c986" />
+<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/05651180-3c24-46d3-9a62-0058707b3901" />
+<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/8d5d495d-0b85-4b20-adb9-868cca42956b" />
+<img width="959" height="450" alt="image" src="https://github.com/user-attachments/assets/a003a5e9-0e38-484b-bf9b-c5fab05d7661" />
 
 ## Features
 
