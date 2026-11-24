@@ -42,6 +42,8 @@ else if(n2===6){
     document.querySelector(".img2").setAttribute("src", "images/dice6.png");
 }
 
+document.querySelector("h1").classList.remove("p1", "p2", "draw");
+
 if(n1>n2){
     document.querySelector("h1").classList.add("p1");
     document.querySelector("h1").textContent = "Player 1 Wins!";
